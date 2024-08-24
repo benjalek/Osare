@@ -11,7 +11,6 @@ body {
 
 .container {
     text-align: center;
-    visibility: hidden; /* Oculta el contenido hasta que los valores se actualicen */
 }
 
 h1 {
@@ -44,6 +43,3 @@ p {
     font-weight: bold;
 }
 
-.hidden {
-    visibility: hidden;
-}
